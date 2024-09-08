@@ -22,7 +22,7 @@ A simple microblog application built with Flask.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/rahuldidvaniya/Microblog.git
    ```
 
 2. **Navigate to the project directory:**
@@ -64,7 +64,7 @@ A simple microblog application built with Flask.
    - **On Windows:**
 
      ```cmd
-     set FLASK_APP=app.py
+     set FLASK_APP=microblog.py
      ```
 
 6. **Run the Flask development server:**
